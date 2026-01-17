@@ -1,12 +1,16 @@
+# HormigasAIS LBH Protocol 🐜
+## Fuente de Verdad del Protocolo
+
+Este repositorio es la infraestructura de gobernanza bajo control humano explícito.
 
 ---
 
-## 🛡️ LHB-CERT (Autoridad Máxima)
+## 🛡️ LHB-CERT (Autoridad Compacta)
 **Origin:** HormigasAIS  
-**Subject:** Cristhiam Leonardo Hernández Quiñonez  
+**Subject:** CLHQ  
 **Encoding:** ASCII → Binary (8-bit)  
 **Signature:**
-01000011 01110010 01101001 01110011 01110100 01101000 01101001 01100001 01101101 00100000 01001100 01100101 01101111 01101110 01100001 01110010 01100100 01101111 00100000 01001000 01100101 01110010 01101110 01100001 01101110 01100100 01100101 01111010 00100000 01010001 01110101 01101001 01101110 01101111 01101110 01100101 01111010
+01000011 01001100 01001000 01010001
 
 ---
-*Certificación inmutable generada por XOXO-Edge bajo el mando de CLHQ.*
+*Certificación inmutable CLHQ-2026*
