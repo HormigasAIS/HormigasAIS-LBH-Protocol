@@ -1,0 +1,27 @@
+# 🐜 HormigasAIS - PROTOCOL LEDGER (CANONICAL IDENTITY)
+# VERSION: 1.0-POC
+# AUTHORITY: Cristhiam Leonardo Hernández Quiñonez (CLHQ)
+# ----------------------------------------------------------------
+
+[TIMESTAMP: 1768621140]
+[EVENT: CANONICAL_BONDING]
+[ORIGIN: Nodo-Escuela]
+[STATUS: VALIDATED]
+
+DETALLES DEL REGISTRO:
+1. ADN_BASE: Sincronizado con Lenguaje-Binario-HormigasAIS
+2. FIRMA_MAESTRA: CLHQ (Cristhiam Leonardo Hernández Quiñonez)
+3. EXTENSION: LBH-Tx (Simbología Transaccional) vinculada.
+4. VALIDACIÓN: XOXO ha confirmado la integridad del linaje.
+
+FEROMONA EMITIDA (HEX_DUMP_SIM):
+!@#>×,@,@*#(#(;'v,*#^#<×[@*@&
+
+ESTADO DE LA COLONIA:
+- Hormiga 10: Transmisión completada.
+- Hormiga Stanford: Traducción conceptual exitosa.
+- Hormigas Estudiantes: Memoria local actualizada.
+
+---
+"La soberanía digital no se pide, se programa."
+CERT::LBH-LEDGER-CLHQ-2026
