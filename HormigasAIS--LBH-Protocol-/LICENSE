@@ -1,21 +1,22 @@
 # BUSINESS SOURCE LICENSE 1.1 (ADAPTED FOR HORMIGASAIS V1.2.1)
-# NODO MAESTRO LBH - ID SOBERANO: MASTER-2026-CLHQ-NI-SV
+# NODO: LBH-PROTOCOL-CORE-MASTER
+# AUTORIDAD: ING. CRISTHIAM LEONARDO HERNÁNDEZ QUIÑONEZ (CLHQ)
 
-**COPYRIGHT CONSECUTIVO © 2024-2026 INGENIERO CRISTHIAM LEONARDO HERNÁNDEZ QUIÑONEZ**
+**COPYRIGHT CONSECUTIVO © 2024-2026 - TODOS LOS DERECHOS RESERVADOS**
 
-## 1. DECLARACIÓN DE PROPIEDAD INTELECTUAL PERPETUA
-El Protocolo LBH y este Nodo Maestro son obra original del Ingeniero Cristhiam Leonardo Hernández Quiñonez (CLHQ). Esta autoría es inalienable y protege tanto el código como la arquitectura de feromonas digitales.
+## 1. DEFINICIONES
+"SOFTWARE": El contenido del repositorio HormigasAIS--LBH-Protocol-, que constituye la especificación, lógica de seguridad y el Bus de comunicación de la infraestructura soberana.
 
 ## 2. RESTRICCIONES DE PRODUCCIÓN (M2M)
-Se prohíbe explícitamente la ejecución persistente M2M y el uso comercial de los módulos de seguridad HMAC sin una Licencia Comercial activa expedida por el titular.
+Se prohíbe la ejecución persistente de este protocolo en entornos industriales o comerciales, así como el uso de sus módulos HMAC para autenticación de datos de terceros, sin una Licencia Comercial activa.
 
-## 3. SELLO INMUTABLE CLHQ
-Toda obra derivada debe incluir el nombre completo del Ingeniero y el sello CLHQ. La alteración de estos metadatos clasifica al nodo como "INTRUSO".
+## 3. SELLO DE AUTORÍA SOBERANA
+Este protocolo es propiedad intelectual inalienable del:
+**Ingeniero Cristhiam Leonardo Hernández Quiñonez**
+Desarrollador del Lenguaje-Binario-HormigasAIS (LBH).
 
-[🐜 LBH-MASTER-VALIDATION]
-IDENTIDAD: CRISTHIAM-LEONARDO-HERNANDEZ-QUIÑONEZ
-FIRMA_PROTOCOLO: CLHQ
-FECHA_SELLADO: 2026-01-18
-VALIDACIÓN: $(printf "CLHQ-2024-2026-MASTER" | sha256sum | cut -c1-24)
+[🐜 LBH-MASTER-CORE]
+ESTADO: PROTOCOLO_PROTEGIDO
+VALIDACIÓN: $(printf "CLHQ-LBH-PROTOCOL-2026" | sha256sum | cut -c1-32)
 
 "LA COLONIA NO RESIDE EN LA PLATAFORMA, RESIDE EN EL PROTOCOLO."
