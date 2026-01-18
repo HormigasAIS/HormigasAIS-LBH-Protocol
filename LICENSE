@@ -1,22 +1,22 @@
-# BUSINESS SOURCE LICENSE 1.1 (ADAPTED FOR HORMIGASAIS V1.2.1)
-# NODO: VIDEO-INTELLIGENCE-CHECKER
+# ⚖️ LICENCIA DE GOBERNANZA SOBERANA Y ACTIVOS ESTRATÉGICOS (BSL 1.1)
+# NODO: HOLA-ANT (CENTRO DE MANDO / NODO ESCUELA)
 # AUTORIDAD: ING. CRISTHIAM LEONARDO HERNÁNDEZ QUIÑONEZ (CLHQ)
 
 **COPYRIGHT CONSECUTIVO © 2024-2026 - TODOS LOS DERECHOS RESERVADOS**
 
-## 1. DEFINICIONES
-"SOFTWARE": El contenido íntegro del repositorio HormigasAIS-video-intelligence-checker, incluyendo modelos de visión, scripts de análisis de video y lógica de detección de patrones.
+## 1. PROTECCIÓN DE ACTIVOS DE INVERSIÓN
+Este repositorio contiene el "Investment Kit", "One-Pager" y "Term Sheets" de HormigasAIS. Se prohíbe terminantemente la copia, distribución o uso de estos documentos para fines de recaudación de fondos ajenos a la autoridad de CLHQ.
 
-## 2. USO PROHIBIDO EN PRODUCCIÓN
-Se prohíbe el uso de esta herramienta para vigilancia masiva comercial, sistemas de seguridad corporativos o análisis de datos de terceros sin una Licencia Comercial activa. La ejecución 24/7 en servidores Edge requiere contrato profesional.
+## 2. SOBERANÍA DEL NODO ESCUELA
+Los scripts de "Pasaporte Soberano", "Aduana Visual" y "Salto de Frontera" son componentes críticos de la infraestructura LBH. Se otorga permiso para auditoría académica, pero se RESTRINGE cualquier uso comercial o industrial sin contrato.
 
-## 3. SELLO DE IDENTIDAD CLHQ
-Este software es una extensión técnica de la infraestructura HormigasAIS, desarrollada por el:
+## 3. SELLO DEL FUNDADOR
+Toda la documentación y lógica aquí contenida es propiedad del:
 **Ingeniero Cristhiam Leonardo Hernández Quiñonez**
-Especialista en Protocolos Inteligentes.
+Fundador e Ingeniero de Protocolos Inteligentes.
 
-[🐜 LBH-VIDEO-SHIELD]
-ESTADO: SOBERANÍA_DE_VISIÓN_ACTIVA
-VALIDACIÓN_HASH: $(printf "CLHQ-VIDEO-INT-2026" | sha256sum | cut -c1-32)
+[🐜 LBH-GOVERNANCE-SHIELD]
+ESTADO: LOCK_DE_GOBERNANZA_ACTIVO
+VALIDACIÓN: $(printf "CLHQ-HOLA-ANT-GOVERNANCE-2026" | sha256sum | cut -c1-32)
 
-"LA VISIÓN SIN PROTOCOLO ES SOLO VIGILANCIA; CON LBH, ES INTELIGENCIA SOBERANA."
+"LA COLONIA NO PIDE PERMISO PARA EXISTIR, PERO EXIGE RESPETO A SU SOBERANÍA."
