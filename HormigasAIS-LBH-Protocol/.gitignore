@@ -1,0 +1,11 @@
+# Entorno personal
+.bash_history
+.bashrc
+.gitconfig
+
+# Logs
+*.log
+
+# Backups temporales
+*_backup_*.human
+*_20*.human

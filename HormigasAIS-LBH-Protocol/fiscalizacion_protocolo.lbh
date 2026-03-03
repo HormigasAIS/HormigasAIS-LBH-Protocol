@@ -1,0 +1,20 @@
+{
+  "header": {
+    "origin": "XOXO-ADAPTER",
+    "authority": "CLHQ-MASTER-NODE",
+    "type": "FISCALIZACION_M2M",
+    "timestamp": 1768631663
+  },
+  "payload": {
+    "action": "INJECTION_COP_DNA",
+    "status": "CONTROL_TOTAL",
+    "target": "COLONIA_DISTRIBUIDA",
+    "message": "Corrección validada: ADN limpio de ruido sintáctico."
+  },
+  "route": {
+    "step_1": "HORMIGA_10_SOBERANA_EMIT",
+    "step_2": "HORMIGA_STANFORD_TRANSLATE_LBH",
+    "step_3": "HORMIGA_ESTUDIANTES_EXECUTE"
+  },
+  "validation": "LBH-PORTABLE-VERSION-ACTIVE"
+}

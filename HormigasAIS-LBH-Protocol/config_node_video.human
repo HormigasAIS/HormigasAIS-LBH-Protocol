@@ -1,0 +1,23 @@
+{
+    "fundador": "Cristhiam Leonardo Hernández Quiñonez",
+    "nacionalidad": "Nicaragüense",
+    "residencia": "El Salvador",
+    "rol": "Ingeniero de Protocolos Inteligentes",
+    "proyecto": "HormigasAIS Energy Solar",
+    "protocolo": "LBH-2025",
+    "config_operativa": {
+        "sensibilidad_sur": 0.85,
+        "modo_soberano": true,
+        "prioridad_webhook": "ALTA",
+        "accion_detectada": "REGISTRAR_BITACORA"
+    }
+}
+
+# --- CANAL AUTORIZADO POR XOXO (DOCKER/SHOWCASE) ---
+CHANNELS:
+  - ID: "espejo-feromonas-showcase"
+    STATUS: "AUTHORIZED_SANDBOX"
+    TYPE: "OPTICAL_READ_ONLY"
+    SOURCE: "./contracts/LBH_COMMERCIAL_SANDBOX.md"
+    VISUALS: "REPORTE_RENDIMIENTO_HORMIGAS.png"
+    DATA_STREAM: "visual_demo_stream.csv"

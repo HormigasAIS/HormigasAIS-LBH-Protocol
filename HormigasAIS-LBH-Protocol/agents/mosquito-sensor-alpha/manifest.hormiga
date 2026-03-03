@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "identity": {
+    "name": "mosquito-sensor-alpha",
+    "id": "cc5f4e1975d029f5d50865b10603f3810e7b14ecedc21ed7d63156323a1d4b43",
+    "sovereign_key": "@cristhiam_sovereign_gpg"
+  },
+  "runtime": {
+    "engine": "wasm32-wasi", 
+    "memory_limit": "64mb",
+    "cpu_shares": 0.5
+  },
+  "capabilities": {
+    "xoxo_bus": "read/write",
+    "local_storage": "encrypted",
+    "edge_gpio": [17, 18],
+    "network_proxy": "lbh.human/relay"
+  },
+  "triggers": [
+    {
+      "type": "pheromone_pulse",
+      "filter": "type == 'lightning_node_failure'",
+      "action": "rescue_protocol.wasm"
+    }
+  ]
+}
