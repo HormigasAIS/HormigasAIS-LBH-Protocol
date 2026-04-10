@@ -17,3 +17,6 @@ Toda la telemetría presentada aquí ha sido validada por la **Centinela Alpha**
 
 ---
 *Visualizando la resiliencia desde San Miguel, El Salvador | 2025*
+
+## 📄 Curriculum Vitae
+Presiona aquí para descargar mi CV actualizado: [Descargar PDF (Hosteado en GitHub)](./CV_Cristhiam_Quinonez_LBH.pdf)
